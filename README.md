@@ -1,1 +1,1 @@
-# IBMDataScienceCourse
+# IBM DataScience Course
